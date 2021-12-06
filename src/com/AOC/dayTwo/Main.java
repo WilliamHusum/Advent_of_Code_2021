@@ -1,6 +1,6 @@
 package com.AOC.dayTwo;
 
-import static com.AOC.dayTwo.Submarine.CalcPosition;
+import static com.AOC.dayTwo.SubmarinePt1.CalcPosition;
 
 public class Main {
 
